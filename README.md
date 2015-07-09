@@ -1,2 +1,2 @@
 # echelon
-Echelon 
+Playground project
